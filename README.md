@@ -1,43 +1,58 @@
-# 👋 Hi, I'm Lalithra Indupa  
 
-### 🌟 Aspiring DevOps Engineer | Cloud Enthusiast | Business Analytics Learner  
+<p align="center">
+  <img src="https://undraw.co/api/illustrations/undraw_programming_re_kg9v.svg" alt="Coder" width="350" />
+</p>
+
+# 👋 Hi, I'm Lalithra Indupa
+
+<p align="center">
+  <b>🚀 Turning Ideas Into Scalable Solutions | DevOps | Cloud | Analytics</b>
+</p>
 
 ---
 
 ## 🚀 About Me
-I'm an **aspiring DevOps Engineer** with a strong interest in **cloud technologies, automation, and continuous delivery**.  
-I enjoy building scalable systems, streamlining workflows, and applying DevOps practices to real-world projects.  
+Passionate about building scalable systems, automating workflows, and bringing DevOps culture to life. I thrive on cloud innovation and love transforming business needs into technical solutions.
 
 ---
 
 ## 🎓 Education
-- 🎓 **B.Sc. in Information Systems** — *University of Colombo School of Computing* (2023 – Present)  
-  📊 CGPA: **3.16 / 4.00**  
-- 🏫 **Richmond College, Galle** — A/L (Maths Stream, 2021)  
+- **B.Sc. in Information Systems** — *University of Colombo School of Computing* (2023 – Present)
+  - CGPA: **3.16 / 4.00**
+- **Richmond College, Galle** — A/L (Maths Stream, 2021)
 
 ---
 
-## 🛠️ Skills  
+## 🛠️ Skills
 
-**DevOps & Cloud**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
+<details>
+  <summary><b>DevOps & Cloud</b></summary>
+  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+</details>
 
-**Programming**  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+<details>
+  <summary><b>Programming</b></summary>
+  
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+</details>
 
-**Frameworks**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
+<details>
+  <summary><b>Frameworks</b></summary>
+  
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+</details>
 
-**Databases**  
+---
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
