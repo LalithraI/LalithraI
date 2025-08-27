@@ -129,16 +129,6 @@ Passionate about building scalable systems, automating workflows, and bringing D
 
 ---
 
-## 📊 GitHub Stats  
-![Lalithra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LalithraI&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LalithraI&layout=compact&theme=radical)  
-
-🔥 **Streak Stats**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LalithraI&theme=radical)  
-
----
-
 ## 🌐 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lalithraindupa/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portofolio-three-tan.vercel.app/)  
