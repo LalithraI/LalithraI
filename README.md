@@ -15,9 +15,10 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+<!-- Quick contact (duplicate of detailed section below, but immediate) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lalithraindupa/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LalithraI)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lalithraindupa2002@gmail.com)
 
 </div>
 
@@ -25,6 +26,19 @@
 
 ## 🚀 About Me
 Passionate about building scalable systems, automating workflows, and bringing DevOps culture to life. I thrive on cloud innovation and love transforming business needs into technical solutions.
+
+### 🌱 Currently Learning / Focusing
+- Infrastructure as Code with **Terraform**
+- Advanced **GitHub Actions** CI/CD pipelines
+- **AWS** architecture patterns (targeting Solutions Architect Associate)
+- **Kubernetes** cluster operations & observability (Prometheus / Grafana)
+
+### 🗺️ 2025 Roadmap
+- [ ] Publish 2+ medium-depth DevOps blog posts
+- [ ] Build a personal homelab Kubernetes cluster
+- [ ] Contribute to an open-source Terraform module
+- [ ] Earn AWS certification
+- [ ] Automate end-to-end deployment for a side project (IaC + GitOps)
 
 ---
 
